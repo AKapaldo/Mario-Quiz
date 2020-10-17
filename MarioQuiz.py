@@ -118,7 +118,7 @@ while replay:
 # Calculate Percentage Score
     percent = int(score / 5 * 100)
 
-# Print out results
+# Print out game results
     print("\nYou got", score, "out of 5 correct!")
     if grade == "B":
         print("That is an", percent, "%", grade)
